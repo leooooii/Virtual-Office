@@ -1,0 +1,5 @@
+{
+  "name": "Smart Office 3D",
+  "description": "Interactive 3D office environment with physics-based lighting controls using PD controllers.",
+  "requestFramePermissions": []
+}
